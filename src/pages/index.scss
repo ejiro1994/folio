@@ -1,0 +1,19 @@
+@import './typography.scss';
+
+* {
+	margin:0;
+	padding:0;
+	
+}
+
+
+body {
+	background: #f6f6f6;
+  color: green;
+  font-family: "jenriv-light", georgia, serif;
+  font-weight: normal;
+  word-wrap: break-word;
+  	font-kerning: normal;
+	  background: src('../public/images/GoldenCanonGrid-1920.png') cover ;
+}
+
