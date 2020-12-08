@@ -8,12 +8,13 @@ export default function Home() {
     <div>
       <Helmet>
         <title>testetststststststs</title>
-        <meta name="og:title" content="The Rock" />
-        <meta name="og:type" content="movie" />
-        <meta name="og:url" content="http://www.ejirolennox.com" />
-        <meta name="og:image" content="https://lh3.googleusercontent.com/jkRCEaBKzyVNijg12zycgjObWmQucwktNiscALqOZp5GL-0ZFG-I3AENfYXpHr8h_jrjng1sGbbrfX63O_Yg7-YToMejArZVUki8zw" />
-        <meta name="og:site_name" content="IMDb" />
+        <meta property="og:title" content="ejiro best website test works!" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://www.ejirolennox.com" />
+        <meta property="og:image" content="https://lh3.googleusercontent.com/jkRCEaBKzyVNijg12zycgjObWmQucwktNiscALqOZp5GL-0ZFG-I3AENfYXpHr8h_jrjng1sGbbrfX63O_Yg7-YToMejArZVUki8zw" />
         <meta name="og:description" content="A group of U.S. Marines, under command of..." />
+        <meta property="og:locale" content="en_US" />
+        <link rel="canonical" href=""/>
       </Helmet>
         <div className="title">
           <Hero />
