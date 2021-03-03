@@ -3,7 +3,7 @@ import React from 'react'
 function Hero() {
 	return (
 		<div>
-			<h1>big time test</h1>
+			<h1>Ejiro Lennox - Music Production</h1>
 			<img src="../../" alt=""/>
 		</div>
 	)
