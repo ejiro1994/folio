@@ -1,5 +1,5 @@
 import React from 'react'
-import EjImg from '../imgs/File_00112.png' 
+import EjImg from '../imgs/ejiro.webp' 
 
 function Hero() {
 	return (
